@@ -8,3 +8,7 @@ Release/
 *.obj
 *.o
 *.user
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
